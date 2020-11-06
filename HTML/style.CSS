@@ -1,0 +1,15 @@
+*{border: solid;}
+.games{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #fad7fa ;
+}
+h1{ display: flex;
+    justify-content: space-evenly;}
+.social{display: flex;
+       justify-content: flex-end;             }
+       .header a{ margin-left: 10cm;
+                padding-left: 20px;
+
+       }
